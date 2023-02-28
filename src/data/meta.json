@@ -1,7 +1,7 @@
 {
     "title": "Nostalgia",
     "description": "A webring for all things nostalgic, whatever your age. Share your memories!",
-    "image": "freakazoid.jpg",
+    "image": "casette.jpg",
     "url": "https://nostalgia.netlify.com",
     "repo": "https://github.com/jeffsikes/nostalgia-webring",
     "admins": [
